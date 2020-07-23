@@ -29,9 +29,6 @@ dict_df = {'Postal Code': postal_code, 'Borough': borough, 'Neighbourhoods': nei
 for row in rows:
     for i in range(1):
         postal_code.append(row.find('td'))
-
-        for
-
         borough.append(row.find('td'))
         neighbourhood.append(row.find('td'))
 print(dict_df)
