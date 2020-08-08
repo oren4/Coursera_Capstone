@@ -25,3 +25,5 @@ This is a repository for the Coursera Capstone project.
 26 July merged the Latitude/Longititude csv with the toronto dataframe
 
 28 July Conducted cluster analysis on the toronto dataframe after adding location data from FourSquare API
+
+08 August Created Introduction/Business Case and Data Description report
